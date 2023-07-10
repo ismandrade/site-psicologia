@@ -58,10 +58,6 @@ body {
     text-transform: uppercase;
 }
 
-.lista__psi:hover {
-    background-color: var(--cor-secundaria);
-}
-
 .lista__social {
     display: flex;
     margin: auto;
@@ -109,5 +105,9 @@ body {
 
     .logo {
         width: 12rem;
+    }
+
+    .lista__psi:hover {
+        background-color: var(--cor-secundaria);
     }
 }
