@@ -15,6 +15,6 @@
 
 ## Detalhes do Projeto
 
-<p align="justify">O Layout do projeto se deu a partir de uma página criada por mim mesmo no Canva para mobile e manipulada para que melhor se adequasse a telas maiores com adição de informação e interação do usuário com a tela. Para isto, foi usado HTML para estruturação e CSS para a estilização do site, com o uso do Media Query para a adaptabilidade de acordo com o dispositivo utilizado.</p>
+<p align="justify">O Layout do projeto se deu a partir de uma página criada por mim mesmo no Canva para mobile e manipulada para que melhor se adequasse a telas maiores com adição de informação e interação do usuário com a tela. Para isto, foi usado HTML para estruturação e CSS para a estilização do site, com o uso do Media Query.</p>
 
 ![](https://github.com/ismandrade/site-psicologia/assets/134115209/b3d30dbe-5732-4ce4-8ebb-60955bb784b5)
